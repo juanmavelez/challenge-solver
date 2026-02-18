@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# JavaScript
+node_modules/
+npm-debug.log
+
+# Build artifacts
+*.zip
+dist/
+
+# Gemini
+.gemini/
